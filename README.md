@@ -1,6 +1,9 @@
 # U.S.-Elections
 Visualizing Elections Data
 
+https://ballotpedia.org/Arizona_election_results,_2020
+https://r-graph-gallery.com/287-smooth-animation-with-tweenr.html
+
 #How many total votes did each party get in the years leading up to 2026?
 
 counts <- raw %>% 
